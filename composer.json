@@ -1,5 +1,5 @@
 {
-    "name": "hammerstone/airdrop",
+    "name": "wilber/airdrop",
     "description": "A Laravel package to deploy your application faster by skipping asset compilation when possible.",
     "type": "library",
     "license": "MIT",
